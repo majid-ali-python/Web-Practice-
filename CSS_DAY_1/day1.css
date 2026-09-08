@@ -1,0 +1,17 @@
+h1{
+    background-color: rgb(15, 152, 152);
+    font-size: 50px;
+    text-align: center;
+    font-weight: 100;
+    font-style: italic;
+}
+
+h2{
+    background-color: rgb(216, 216, 123);
+}
+
+ul{
+    background-color: rgb(42, 9, 9);
+    color: white;
+}
+
